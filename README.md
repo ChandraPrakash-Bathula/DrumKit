@@ -1,1 +1,3 @@
-Drumkit Using Html5 CSS3 Javascript.
+# Drum Kit Game
+
+This game is built using HTML, CSS and Javascript with sounds relative to the keys in keyboard.
