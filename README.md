@@ -1,3 +1,3 @@
 # Drum Kit Game.
 
-This game is built using HTML, CSS and Javascript with sounds relative to the keys in keyboard.
+Drum Kit game is built using HTML, CSs and JavaScript which enables us to have different sound on pressing different keys in the keyboard.
